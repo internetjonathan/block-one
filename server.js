@@ -1,3 +1,5 @@
+//this is how it would be done without eosjs library
+
 const request = require('request');
 
 const getInfo = () => {
