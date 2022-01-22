@@ -6,7 +6,7 @@
     "axios": "^0.19.0",
     "bootstrap": "^4.3.1",
     "eosjs-api": "^7.0.4",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "node-sass": "^4.12.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
